@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import axios from 'axios';
-export default {
+  import axios from 'axios';
+  export default {
     name: 'UserBalance',
     data: function (){
         return {
